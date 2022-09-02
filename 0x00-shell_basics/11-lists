@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a  ls ${PWD%/*} ls -l /boot
+ls -a & ls ${PWD%/*} & ls -l /boot
